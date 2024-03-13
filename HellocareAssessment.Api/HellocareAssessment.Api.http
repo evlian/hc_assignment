@@ -1,0 +1,6 @@
+@HellocareAssessment.Api_HostAddress = http://localhost:5179
+
+GET {{HellocareAssessment.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
