@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HellocareAssessment.Core", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HellocareAssessment.Model", "HelloCareAssessment.Model\HellocareAssessment.Model.csproj", "{4920CCA5-5106-4A77-A457-D44F1686AAEA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HellocareAssessment.Tests", "HellocareAssessment.UnitTests\HellocareAssessment.Tests.csproj", "{E330BF44-834E-4168-B35C-5DBED548BC65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HellocareAssessment.Tests", "HellocareAssessment.Tests\HellocareAssessment.Tests.csproj", "{E330BF44-834E-4168-B35C-5DBED548BC65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
